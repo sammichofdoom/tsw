@@ -1,6 +1,16 @@
 bin/
 gfx/
 src/
-.fla
-.swf
-.as2proj
+*.fla
+*.swf
+*.as2proj
+
+#individual files
+Amp.as
+button.as
+Mouse.as
+MovieClip.as
+Selection.as
+Stage.as
+TextField.as
+TextFormat.as
